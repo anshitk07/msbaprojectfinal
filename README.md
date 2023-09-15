@@ -13,10 +13,12 @@ search result
 ![image](https://github.com/anshitk07/msbaprojectfinal/assets/122850135/d615606a-a020-4982-8d33-f9b4f801b851)
 
 edit data
-![image](https://github.com/anshitk07/msbaprojectfinal/assets/122850135/daa99bad-4d56-47cc-9375-965ffdfa7f15)
+![image](https://github.com/anshitk07/msbaprojectfinal/assets/122850135/be40dc30-66a0-402a-bb8f-97f96d61043d)
+
 
 edit response
-![image](https://github.com/anshitk07/msbaprojectfinal/assets/122850135/c8106803-929f-4917-b1b5-a703789eb374)
+![image](https://github.com/anshitk07/msbaprojectfinal/assets/122850135/f95ae821-879e-40a4-90f2-94d1d2fa451c)
+
 
 
 
